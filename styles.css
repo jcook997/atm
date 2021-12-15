@@ -1,0 +1,30 @@
+button {
+  background-color: green;
+  border: 6px solid #0ff166;
+  border-radius: 15px;
+  width: 250px;
+  margin-left: 0.3rem;
+  font-weight: bold;
+  cursor: default;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: aqua;
+
+  margin: 225px;
+  font-family: "Arial", "Arial Black", "Helvetica Neue", sans-serif;
+  background-color: #0c80f3;
+  align-content: center;
+  text-align: center;
+}
+
+.center {
+  display: inline-flex;
+  justify-content: "center";
+  align-items: "center";
+}
